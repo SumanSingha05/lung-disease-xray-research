@@ -1,0 +1,17 @@
+# Environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data and Models (Large files)
+datasets/
+outputs/
+models/*.pth
+models/*.h5
+
+# OS generated files
+.DS_Store
